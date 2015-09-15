@@ -1,0 +1,7 @@
+apple 10$
+orange 5$
+banana 20$
+watermelon 50$
+rice 1$
+vacuum cleaner 150$
+anchovies 2$
